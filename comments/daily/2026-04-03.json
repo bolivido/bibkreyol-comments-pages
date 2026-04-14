@@ -1,0 +1,90 @@
+{
+  "date": "2026-04-03",
+  "verseKey": "daily:2026-04-03",
+  "updatedAt": 1775249157848,
+  "version": 1,
+  "comments": [
+    {
+      "id": "local-1775249156604",
+      "text": "Tony wants to know what I Am doing",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775249157847,
+      "updatedAt": 1775249157847,
+      "status": "active"
+    },
+    {
+      "id": "local-1775196901841",
+      "text": "Is this posting through the function on iOS",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775196903351,
+      "updatedAt": 1775196903351,
+      "status": "active"
+    },
+    {
+      "id": "local-1775196574277",
+      "text": "is This reading through the function",
+      "userDeviceId": "f8ee2254-c172-4482-bf7e-16a1168f6b5e",
+      "userName": "James",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775196576001,
+      "updatedAt": 1775196576001,
+      "status": "active"
+    },
+    {
+      "id": "smoke-1",
+      "text": "t",
+      "userDeviceId": "smoke",
+      "userName": "u",
+      "verseName": "v",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775193366829,
+      "updatedAt": 1775193366829,
+      "status": "active"
+    },
+    {
+      "id": "local-1775182770330",
+      "text": "test comment 1st",
+      "userDeviceId": "f8ee2254-c172-4482-bf7e-16a1168f6b5e",
+      "userName": "James",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775182776709,
+      "updatedAt": 1775182776709,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
+  "shareCount": 1,
+  "viewCount": 3,
+  "verseLikedBy": [
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "511CF6C1-2A62-4F32-B742-9275EA49024C"
+  ],
+  "verseViewBy": [
+    "f8ee2254-c172-4482-bf7e-16a1168f6b5e",
+    "511CF6C1-2A62-4F32-B742-9275EA49024C",
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+  ]
+}

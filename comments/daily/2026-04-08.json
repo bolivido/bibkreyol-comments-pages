@@ -1,0 +1,297 @@
+{
+  "date": "2026-04-08",
+  "verseKey": "daily:2026-04-08",
+  "version": 1,
+  "verseViewBy": [
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "21406A60-B9C1-44D6-BD43-00204C94E430",
+    "144E1DD7-4211-42D4-BCDC-C1562B3406AC",
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+  ],
+  "viewCount": 6,
+  "verseLikedBy": [
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "144E1DD7-4211-42D4-BCDC-C1562B3406AC",
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+  ],
+  "likeCount": 5,
+  "usernameRegistry": {
+    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+  },
+  "shareCount": 10,
+  "comments": [
+    {
+      "id": "local-1775615399574",
+      "text": "Lot ves!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 2,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775615399841,
+      "updatedAt": 1775615663956,
+      "status": "active"
+    },
+    {
+      "id": "local-1775615530542",
+      "text": "Yes, nothing weird about the verse rotation so far.",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775615399574",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775615530816,
+      "updatedAt": 1775615530816,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616397298",
+      "text": "Amen to that Fre",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775615399574",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775616397551,
+      "updatedAt": 1775616397551,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616635824",
+      "text": "Let’s learn python",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775616636003,
+      "updatedAt": 1775653042478,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616675507",
+      "text": "What’s the time?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775616675727,
+      "updatedAt": 1775653040346,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616699679",
+      "text": "Never mind?",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775616699868,
+      "updatedAt": 1775616959573,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616733905",
+      "text": "I am waiting for the time.",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 2,
+      "likeCount": 2,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775616734127,
+      "updatedAt": 1775653045739,
+      "status": "active"
+    },
+    {
+      "id": "local-1775616755385",
+      "text": "You guys are amazing?",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 2,
+      "likeCount": 2,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
+      "createdAt": 1775616755713,
+      "updatedAt": 1775618741553,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618568504",
+      "text": "Who in the house?",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616755385",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618568746,
+      "updatedAt": 1775618568746,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618651103",
+      "text": "Who is amazing?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616755385",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618651274,
+      "updatedAt": 1775618651274,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618780204",
+      "text": "What time?",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616733905",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618780395,
+      "updatedAt": 1775618780395,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618824070",
+      "text": "Keep waiting then!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616733905",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618824276,
+      "updatedAt": 1775618824276,
+      "status": "active"
+    },
+    {
+      "id": "local-1775653072886",
+      "text": "Mwen like komante tout moun!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
+      "createdAt": 1775653073075,
+      "updatedAt": 1775653180096,
+      "status": "active"
+    },
+    {
+      "id": "local-1775654351457",
+      "text": "I hope this new comment architecture come through, cause that would open lots of doors in the tech world for Bib Kreyol.",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+      ],
+      "createdAt": 1775654351828,
+      "updatedAt": 1775671557543,
+      "status": "active"
+    },
+    {
+      "id": "local-1775654637841",
+      "text": "I am somewhat agree and cant wait to see how that plays out on a higher scale.",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775654351457",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775654638059,
+      "updatedAt": 1775654638059,
+      "status": "active"
+    },
+    {
+      "id": "local-1775671511453",
+      "text": "Amen",
+      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+      "userName": "James Boli",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775671511717,
+      "updatedAt": 1775673626881,
+      "status": "active"
+    },
+    {
+      "id": "local-1775673657899",
+      "text": "Can James Boli still read.",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775673658103,
+      "updatedAt": 1775673663496,
+      "status": "active"
+    }
+  ],
+  "updatedAt": 1775673663496
+}

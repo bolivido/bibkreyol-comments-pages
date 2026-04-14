@@ -1,0 +1,285 @@
+{
+  "date": "2026-03-31",
+  "verseKey": "daily:2026-03-31",
+  "updatedAt": 1774980662357,
+  "version": 1,
+  "comments": [
+    {
+      "id": "local-1774980578762",
+      "text": "I agree with the idea sir",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774980545084",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774980662357,
+      "updatedAt": 1774980662357,
+      "status": "active"
+    },
+    {
+      "id": "local-1774980443048",
+      "text": "more test yes",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774971814167",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774980542396,
+      "updatedAt": 1774980542396,
+      "status": "active"
+    },
+    {
+      "id": "local-1774972530522",
+      "text": "new comment style",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774932936763",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774972621936,
+      "updatedAt": 1774972621936,
+      "status": "active"
+    },
+    {
+      "id": "local-1774972506270",
+      "text": "kaman nou ye",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774933831480",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774972563450,
+      "updatedAt": 1774972563450,
+      "status": "active"
+    },
+    {
+      "id": "local-1774963988441",
+      "text": "amen",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "c_probe_1",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774964041871,
+      "updatedAt": 1774964041871,
+      "status": "active"
+    },
+    {
+      "id": "local-1774933810647",
+      "text": "Remy by me",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774932987163",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933922386,
+      "updatedAt": 1774933922386,
+      "status": "active"
+    },
+    {
+      "id": "local-1774933831480",
+      "text": "poste li ye",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774933922386,
+      "updatedAt": 1774972563450,
+      "status": "active"
+    },
+    {
+      "id": "local-1774933789531",
+      "text": "reby by james",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "c_live_66fb7908",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933862747,
+      "updatedAt": 1774933862747,
+      "status": "active"
+    },
+    {
+      "id": "local-1774932987163",
+      "text": "hi, salu",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774933022458,
+      "updatedAt": 1774933922386,
+      "status": "active"
+    },
+    {
+      "id": "local-1774932936763",
+      "text": "salu tout moun",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774932962430,
+      "updatedAt": 1774972621936,
+      "status": "active"
+    },
+    {
+      "id": "local-1774932949761",
+      "text": "hi",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774932962430,
+      "updatedAt": 1774933621968,
+      "status": "active"
+    },
+    {
+      "id": "c_live_66fb7908",
+      "text": "Live test comment for today",
+      "userDeviceId": "did_live_test",
+      "userName": "LiveTester",
+      "verseName": "Current Verse of the Day",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 2,
+      "likedBy": [
+        "did_live_test",
+        "local-device"
+      ],
+      "createdAt": 1774929902674,
+      "updatedAt": 1774933862747,
+      "status": "active"
+    },
+    {
+      "id": "c_live_89ad89",
+      "text": "Live test marker 89ad89",
+      "userDeviceId": "did_live_trace",
+      "userName": "LiveTester",
+      "verseName": "Current Verse of the Day",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 2,
+      "likedBy": [
+        "did_live_trace",
+        "local-device"
+      ],
+      "createdAt": 1774929902674,
+      "updatedAt": 1774932181640,
+      "status": "active"
+    },
+    {
+      "id": "c_live_776f5a1b2c",
+      "text": "Live pipeline test on 2026-03-31",
+      "userDeviceId": "did_live_test",
+      "userName": "LiveTester",
+      "verseName": "Current Verse Of The Day",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "did_live_test"
+      ],
+      "createdAt": 1774929542301,
+      "updatedAt": 1774929542301,
+      "status": "active"
+    },
+    {
+      "id": "c_probe_1",
+      "text": "probe",
+      "userDeviceId": "did_probe",
+      "userName": "probe",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774928161849,
+      "updatedAt": 1774964041871,
+      "status": "active"
+    },
+    {
+      "id": "c_smoke2_c01c1a75",
+      "text": "smoke2",
+      "userDeviceId": "did_smoke2",
+      "userName": "Smoke2",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 2,
+      "likedBy": [
+        "did_smoke2",
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774928161849,
+      "updatedAt": 1774972621936,
+      "status": "active"
+    },
+    {
+      "id": "c_smoke_f3b1d279be",
+      "text": "smoke comment 2026-03-31",
+      "userDeviceId": "did_smoke",
+      "userName": "SmokeUser",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 2,
+      "likedBy": [
+        "local-device",
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
+      "createdAt": 1774927981888,
+      "updatedAt": 1774972563450,
+      "status": "active"
+    },
+    {
+      "id": "c_test_1",
+      "text": "test comment from deploy check",
+      "userDeviceId": "did_test",
+      "userName": "tester",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774927682330,
+      "updatedAt": 1774933082454,
+      "status": "active"
+    }
+  ],
+  "sha": "d632a66f925bd5e72a4534f0796f4f60bd8f4f30"
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-07",
+  "verseKey": "daily:2026-04-07",
+  "version": 1,
+  "verseViewBy": [
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+  ],
+  "viewCount": 2,
+  "usernameRegistry": {
+    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+  },
+  "comments": [
+    {
+      "id": "local-1775524841747",
+      "text": "Se sa wi baz.",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Fre Charles",
+      "verseName": "2 Wa 10:1",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775524842057,
+      "updatedAt": 1775524842057,
+      "status": "active"
+    },
+    {
+      "id": "local-1775525366360",
+      "text": "Ki moun poste sa?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "2 Wa 10:1",
+      "parentId": "local-1775524841747",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775525366571,
+      "updatedAt": 1775525366571,
+      "status": "active"
+    },
+    {
+      "id": "local-1775533395561",
+      "text": "Se apre 24 e mwn ka chanje nom anko app la diw",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "2 Wa 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775533395854,
+      "updatedAt": 1775533395854,
+      "status": "active"
+    }
+  ],
+  "shareCount": 1,
+  "verseLikedBy": [
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+  ],
+  "likeCount": 1,
+  "updatedAt": 1775599484330
+}

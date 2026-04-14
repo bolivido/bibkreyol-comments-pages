@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-05",
+  "verseKey": "daily:2026-04-05",
+  "updatedAt": 1775433072413,
+  "version": 1,
+  "comments": [
+    {
+      "id": "local-1775433071232",
+      "text": "The fire in your name!!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Fre Charles",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775433072413,
+      "updatedAt": 1775433072413,
+      "status": "active"
+    },
+    {
+      "id": "local-1775428262670",
+      "text": "does this really exist locally?",
+      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+      "userName": "James Boli",
+      "verseName": "Travay 11:2",
+      "parentId": "local-1775399751768",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775428264659,
+      "updatedAt": 1775428264659,
+      "status": "active"
+    },
+    {
+      "id": "local-1775426367462",
+      "text": "Why did it make me change my username again?",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Fre Charles",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775426368745,
+      "updatedAt": 1775426368745,
+      "status": "active"
+    },
+    {
+      "id": "local-1775396287020",
+      "text": "James Boli -> small j v J= dif username",
+      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+      "userName": "James Boli",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+      ],
+      "createdAt": 1775396290289,
+      "updatedAt": 1775400175530,
+      "status": "active"
+    },
+    {
+      "id": "local-1775349035210",
+      "text": "First reply for Amber baby! 😘😍",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Travay 11:2",
+      "parentId": "local-1775348835597",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775349036442,
+      "updatedAt": 1775349036442,
+      "status": "active"
+    },
+    {
+      "id": "local-1775348835597",
+      "text": "Amber is beautiful!",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+      ],
+      "createdAt": 1775348836788,
+      "updatedAt": 1775400267273,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
+  "shareCount": 6,
+  "viewCount": 4,
+  "verseLikedBy": [
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+  ],
+  "verseViewBy": [
+    "511CF6C1-2A62-4F32-B742-9275EA49024C",
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "F56DF75B-7B89-4BB7-8AD5-DFDCBE80FE44",
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+  ]
+}
