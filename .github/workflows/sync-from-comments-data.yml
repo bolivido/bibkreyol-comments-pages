@@ -1,5 +1,5 @@
 # Copies comments/daily/*.json from bolividob/bibkreyol-comments-data into this repo and pushes.
-# A successful push triggers deploy-github-pages.yml (same paths).
+# Pushes with GITHUB_TOKEN do not chain-start other workflows — we explicitly run the Pages deploy workflow.
 #
 # Triggers:
 #   • schedule — poll upstream every 10 minutes (no secrets required)
@@ -21,6 +21,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   sync:
@@ -48,13 +49,22 @@ jobs:
           cp -v "${files[@]}" comments/daily/
 
       - name: Commit and push if changed
+        id: sync
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add comments/daily
           if git diff --staged --quiet; then
             echo "No changes — mirror already matches upstream."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Sync comments/daily from bolividob/bibkreyol-comments-data (workflow ${{ github.run_id }})"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger GitHub Pages deploy
+        if: steps.sync.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run "Deploy comments data to GitHub Pages" --ref main
