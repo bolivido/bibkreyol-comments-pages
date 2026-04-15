@@ -13,7 +13,7 @@ on:
   repository_dispatch:
     types: [sync-comments-data]
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'
 
 concurrency:
   group: sync-from-upstream-comments-data
